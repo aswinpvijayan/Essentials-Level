@@ -1,0 +1,1 @@
+for inp in $(cat input.d); do python power2.py $inp >> output.d; done
